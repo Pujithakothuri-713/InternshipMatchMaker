@@ -5,6 +5,7 @@ Smart Internship Matchmaker is an AI-driven web application that automatically a
 
 Built using Streamlit, this platform simplifies the internship discovery process and ensures better alignment between candidates and opportunities.
 
+
 📌 Problem Statement
 
 Students often struggle to:

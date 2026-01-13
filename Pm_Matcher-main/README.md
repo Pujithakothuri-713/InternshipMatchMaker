@@ -262,6 +262,12 @@ For support, please:
 - Advanced ML models
 - Multi-language support
 
----
+---<img width="1712" height="773" alt="Screenshot 2025-10-24 161922" src="https://github.com/user-attachments/assets/8477f8b4-3017-4d66-951a-6b02862f9b44" />
+<img width="1610" height="720" alt="Screenshot 2025-10-24 161955" src="https://github.com/user-attachments/assets/198c6d03-55f9-4801-9287-5c287d8270ee" />
+<img width="1598" height="748" alt="Screenshot 2025-10-24 162019" src="https://github.com/user-attachments/assets/3ac6ada7-1abf-45e4-8c25-bbab465c98b2" />
+<img width="1685" height="689" alt="Screenshot 2025-10-24 162052" src="https://github.com/user-attachments/assets/3975af14-f5ee-467f-b15b-4727b414dcba" />
+
+
+
 
 **Built with ❤️ for promoting diversity and fairness in internship opportunities across India.**
